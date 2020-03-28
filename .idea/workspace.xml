@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd57033f-efd3-4b86-b47c-3a5b07d3229b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asset/product_1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.htm" beforeDir="false" afterPath="$PROJECT_DIR$/about.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/connect.htm" beforeDir="false" afterPath="$PROJECT_DIR$/connect.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter.htm" beforeDir="false" afterPath="$PROJECT_DIR$/filter.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.htm" beforeDir="false" afterPath="$PROJECT_DIR$/product.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +45,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585315750518</updated>
       <workItem from="1585315751922" duration="742000" />
-      <workItem from="1585373877263" duration="182000" />
+      <workItem from="1585373877263" duration="306000" />
+      <workItem from="1585374267392" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="init push">
       <created>1585315783618</created>
@@ -67,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585317205745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change title ,product_1 pic">
+      <created>1585374133043</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585374133043</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,16 +79,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init push" />
     <MESSAGE value="add sitemap" />
-    <option name="LAST_COMMIT_MESSAGE" value="add sitemap" />
+    <MESSAGE value="change title ,product_1 pic" />
+    <option name="LAST_COMMIT_MESSAGE" value="change title ,product_1 pic" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="516" y="109" key="CommitChangelistDialog2" timestamp="1585317205609">
+    <state x="516" y="109" key="CommitChangelistDialog2" timestamp="1585374132631">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="516" y="109" key="CommitChangelistDialog2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585317205609" />
-    <state x="505" y="244" key="Vcs.Push.Dialog.v2" timestamp="1585317210232">
+    <state x="516" y="109" key="CommitChangelistDialog2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585374132631" />
+    <state x="505" y="244" key="Vcs.Push.Dialog.v2" timestamp="1585374137304">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="505" y="244" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585317210232" />
+    <state x="505" y="244" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585374137304" />
   </component>
 </project>
