@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cd57033f-efd3-4b86-b47c-3a5b07d3229b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter.htm" beforeDir="false" afterPath="$PROJECT_DIR$/filter.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.htm" beforeDir="false" afterPath="$PROJECT_DIR$/product.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,8 @@
       <workItem from="1585315751922" duration="742000" />
       <workItem from="1585373877263" duration="306000" />
       <workItem from="1585374267392" duration="127000" />
-      <workItem from="1585374445275" duration="44000" />
+      <workItem from="1585374445275" duration="196000" />
+      <workItem from="1586511147853" duration="95000" />
     </task>
     <task id="LOCAL-00001" summary="init push">
       <created>1585315783618</created>
@@ -77,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585374310709</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="filter layout fix">
+      <created>1585374510128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585374510128</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,16 +98,17 @@
     <MESSAGE value="add sitemap" />
     <MESSAGE value="change title ,product_1 pic" />
     <MESSAGE value="change index product_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="change index product_1" />
+    <MESSAGE value="filter layout fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="filter layout fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="516" y="109" key="CommitChangelistDialog2" timestamp="1585374310494">
+    <state x="516" y="109" key="CommitChangelistDialog2" timestamp="1585374509943">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="516" y="109" key="CommitChangelistDialog2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585374310494" />
-    <state x="505" y="244" key="Vcs.Push.Dialog.v2" timestamp="1585374314727">
+    <state x="516" y="109" key="CommitChangelistDialog2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585374509943" />
+    <state x="505" y="244" key="Vcs.Push.Dialog.v2" timestamp="1585374514196">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="505" y="244" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585374314727" />
+    <state x="505" y="244" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1585374514196" />
   </component>
 </project>
