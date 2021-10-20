@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd57033f-efd3-4b86-b47c-3a5b07d3229b" name="Default Changelist" comment="">
+    <list default="true" id="cd57033f-efd3-4b86-b47c-3a5b07d3229b" name="Default Changelist" comment="聯絡資訊更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.htm" beforeDir="false" afterPath="$PROJECT_DIR$/about.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connect.htm" beforeDir="false" afterPath="$PROJECT_DIR$/connect.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/filter.htm" beforeDir="false" afterPath="$PROJECT_DIR$/filter.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product.htm" beforeDir="false" afterPath="$PROJECT_DIR$/product.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +50,8 @@
       <workItem from="1585374267392" duration="127000" />
       <workItem from="1585374445275" duration="196000" />
       <workItem from="1586511147853" duration="219000" />
-      <workItem from="1630034813284" duration="267000" />
+      <workItem from="1630034813284" duration="307000" />
+      <workItem from="1634718556305" duration="204000" />
     </task>
     <task id="LOCAL-00001" summary="init push">
       <created>1585315783618</created>
@@ -97,11 +95,30 @@
       <option name="project" value="LOCAL" />
       <updated>1586511258840</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="聯絡資訊更新">
+      <created>1630035114756</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1630035114756</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -111,16 +128,7 @@
     <MESSAGE value="change index product_1" />
     <MESSAGE value="filter layout fix" />
     <MESSAGE value="fix product name" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix product name" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="516" y="109" key="CommitChangelistDialog2" timestamp="1586511258579">
-      <screen x="0" y="23" width="1920" height="977" />
-    </state>
-    <state x="516" y="109" key="CommitChangelistDialog2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1586511258579" />
-    <state x="505" y="244" key="Vcs.Push.Dialog.v2" timestamp="1586511262903">
-      <screen x="0" y="23" width="1920" height="977" />
-    </state>
-    <state x="505" y="244" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/0.23.1920.977@0.23.1920.977" timestamp="1586511262903" />
+    <MESSAGE value="聯絡資訊更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="聯絡資訊更新" />
   </component>
 </project>
