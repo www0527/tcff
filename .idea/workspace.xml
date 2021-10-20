@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd57033f-efd3-4b86-b47c-3a5b07d3229b" name="Default Changelist" comment="product desc fix">
+    <list default="true" id="cd57033f-efd3-4b86-b47c-3a5b07d3229b" name="Default Changelist" comment="index fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter.htm" beforeDir="false" afterPath="$PROJECT_DIR$/filter.htm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <workItem from="1586511147853" duration="219000" />
       <workItem from="1630034813284" duration="307000" />
       <workItem from="1634718556305" duration="442000" />
-      <workItem from="1634719156591" duration="45000" />
+      <workItem from="1634719156591" duration="260000" />
     </task>
     <task id="LOCAL-00001" summary="init push">
       <created>1585315783618</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634718784261</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="index fix">
+      <created>1634719267422</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634719267422</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +144,7 @@
     <MESSAGE value="fix product name" />
     <MESSAGE value="聯絡資訊更新" />
     <MESSAGE value="product desc fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="product desc fix" />
+    <MESSAGE value="index fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="index fix" />
   </component>
 </project>
