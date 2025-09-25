@@ -1425,6 +1425,11 @@ ol {
 h2.typoh2{
     margin: 0 0 10px;
 }
+.filter_introduce{
+    .col-md-3 {
+        padding-bottom: 24px;
+    }
+}
 @media (max-width:768px){
 .grid_5 {
 	padding: 0 0 1em;
@@ -2563,5 +2568,6 @@ p.para {
 .projects-agile {
     margin-top: 2em;
 }
-.projects-w3lgrids {
+.projects-w3lgrids {}
+
 }
