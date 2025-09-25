@@ -1,0 +1,89 @@
+{
+  "title": "熱門產品",
+  "description": "由多位經驗豐富業界精英一同成立致力於不鏽鋼過濾器研發與製造、並擁有專業製造化纖過濾器的技術,生產出符合客戶需求的濾芯.",
+  "items": [
+    {
+      "image": "asset/product_ai/product_ai_liquid_cooling.jpg?t=6",
+      "title": "AI 液冷散熱系統濾芯",
+      "subtitle": "Filter Elements for AI Liquid Cooling Systems",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid"
+    },
+    {
+      "image": "asset/product_2_aerospace/product_2_aerospace_servo_valves.jpg?t=6",
+      "title": "不鏽鋼伺服閥精密濾芯",
+      "subtitle": "Precision Filter for Aerospace Servo-Valves",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-1"
+    },
+    {
+      "image": "asset/product_3_mesh_filter/product_3_multi_layered_mesh_filter.png?t=6",
+      "title": "不鏽鋼摺疊蠟式濾芯",
+      "subtitle": "Stainless Steel Folding Candle Element Filter",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    },
+    {
+      "image": "asset/product_4_filter_element_housing/product_4_filter_element_housing.jpg?t=6",
+      "title": "濾芯外殼",
+      "subtitle": "Filter Element Housing",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    },
+    {
+      "image": "asset/products_5_multi_layered_mesh_filter/product_5_multi_layered mesh filter.jpg?t=6",
+      "title": "不鏽鋼平面蠟式濾芯",
+      "subtitle": "Stainless Steel Folding Multi-Layered Mesh Filter",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    },
+    {
+      "image": "asset/product_6_disk/product_6_disk.jpg?t=6",
+      "title": "碟式濾芯(DISK)",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    },
+    {
+      "image": "asset/product_7_powder_filter/product_7_powder_filter.jpg?t=6",
+      "title": "粉末冶金濾芯",
+      "subtitle": "Powder Metallurgy Filter Elements",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    },
+    {
+      "image": "asset/product_8_mesh_bag_filter/product_8_mesh_bag_filter.jpg?t=6",
+      "title": "網包管濾芯",
+      "subtitle":"Mesh Bag Filter",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    },
+    {
+      "image": "asset/product_9_disk_2/product_9_disk.jpg?t=6",
+      "title": "鋁包網濾心(DISK)",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    },
+    {
+      "image": "asset/product_10_planar_multi_layered_filter/product_10_planar multi_layered_filter_discs.jpg?t=6",
+      "title": "平面式金屬多層濾網片",
+      "subtitle": "Planar Multi-Layered Mesh Filter Discs",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    },
+    {
+      "image": "asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2328.jpg?t=6",
+      "title": "散熱模組事業部",
+      "subtitle": "Thermal Module Division",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    },
+    {
+      "image": "asset/product_12_liquid_cooling/S__18497540_0.jpg?t=6",
+      "title": "液冷散熱系統零件",
+      "subtitle": "Liquid Cooling Parts",
+      "href": "product.htm",
+      "itemClass": "w3l-abt-grid-2"
+    }
+  ]
+}
+
