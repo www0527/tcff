@@ -20,7 +20,7 @@ body{
 }
 /*-- banner --*/
 .banner{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../images/1.png) no-repeat 0px 0px;
     background-size: cover;
 	min-height:750px;
 }
@@ -36,7 +36,7 @@ body{
     background-position: 50% 50%;
 }
 .banner-1 {
-    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background: url(../images/1.png) no-repeat 0px 0px;
     background-size: cover;
     min-height: 350px;
 }
@@ -873,7 +873,7 @@ a.hi-icon.icon3 {
 /*-- //about--*/
 /*-- news --*/
 .news {
-    background: url(../images/12.jpg)no-repeat center 0px fixed;
+    background: url(../images/12.png)no-repeat center 0px fixed;
     background-size: cover;
 	padding: 5em 0;
 }
@@ -1023,7 +1023,7 @@ img.img-responsive {
 /*-- //testimonial --*/
 /*-- subscribe --*/
 .sub-agileitsinfo{
-	background: url(../images/1.jpg)no-repeat 0px 0px fixed;
+	background: url(../images/1.png)no-repeat 0px 0px fixed;
     background-size: cover;
 }
 .subscribe {
@@ -1885,7 +1885,7 @@ ul.ab li a:hover{
 }
 /*-- different --*/
 .different{
-    background:url(../images/12.jpg)no-repeat center 0px fixed;
+    background:url(../images/12.png)no-repeat center 0px fixed;
     background-size: cover;
 	padding:5em 0;
 }

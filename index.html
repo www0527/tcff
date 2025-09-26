@@ -20,7 +20,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
 <!--// css -->
 <!-- font-awesome icons -->
-<link href="css/font-awesome.css" rel="stylesheet"> 
+<link href="css/font-awesome.css" rel="stylesheet">
 <!-- //font-awesome icons -->
 <!-- font -->
 <link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
@@ -28,6 +28,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- //font -->
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <script src="js/bootstrap.js"></script>
+<script src="js/cache-buster.js"></script>
 <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <![endif]-->
@@ -125,7 +126,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					$(window).load(function(){
 					  $('.flexslider').flexslider({
 						animation: "slide",
-						start: function(slider){
+						start: function(){
 						  $('body').removeClass('loading');
 						}
 					  });
@@ -152,7 +153,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col-sm-4 news-w3lgrids">
 					<div class="news-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="images/s11.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="images/s11.png" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="news-w3imgtext">
 							<h5 class="w3-agilep">MAR 12, 2017 </h5>
@@ -164,7 +165,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col-sm-4 news-w3lgrids">
 					<div class="news-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="images/s10.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="images/s10.png" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="news-w3imgtext">
 							<h5 class="w3-agilep">MAR 4, 2017</h5>
@@ -176,7 +177,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<div class="col-sm-4 news-w3lgrids">
 					<div class="news-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="images/s12.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="images/s12.png" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="news-w3imgtext">
 							<h5 class="w3-agilep">MAR 21, 2017</h5>
@@ -202,7 +203,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<li role="presentation" class="active"><a href="#testi" aria-controls="testi" role="tab" data-toggle="tab"><img src="images/1.png" alt=""/></a></li>
 					<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab"><img src="images/3.png" alt=""/></a></li>
 					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="images/2.png" alt=""/></a></li>
-				</ul> 
+				</ul>
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="testi">
@@ -328,8 +329,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</div>
 				<section>
 					<div class="modal-body">
-						<img src="images/s12.jpg" alt=" " class="img-responsive" />
-						<p>Ut enim ad minima veniam, quis nostrum 
+						<img src="images/s12.png" alt=" " class="img-responsive" />
+						<p>Ut enim ad minima veniam, quis nostrum
 							exercitationem ullam corporis suscipit laboriosam, 
 							nisi ut aliquid ex ea commodi consequatur? Quis autem 
 							vel eum iure reprehenderit qui in ea voluptate velit 
@@ -357,4 +358,3 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	</script>
 </body>	
 </html>
-
