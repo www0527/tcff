@@ -4,183 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd57033f-efd3-4b86-b47c-3a5b07d3229b" name="Default Changelist" comment="fix:一些小問題">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/1500w_laser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/circumferential_welding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/differential_pressure_test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/filter1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/filter2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/filter3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/filter4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/laser_engraving.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/line_QR_code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_10_planar_multi_layered_filter/2025.05.27-台纖濾材商品攝影2266.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_10_planar_multi_layered_filter/2025.05.27-台纖濾材商品攝影2269.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_10_planar_multi_layered_filter/2025.05.27-台纖濾材商品攝影2271.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_10_planar_multi_layered_filter/product_10_planar multi_layered_filter_discs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2328.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2329.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2330.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2331.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2332.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2333.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2339.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2341.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2342.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_12_liquid_cooling/S__18497540_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_12_liquid_cooling/S__18497542_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_12_liquid_cooling/S__18497543_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_2_aerospace/product_2_aerospace_servo_valves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_3_mesh_filter/2025.05.27-台纖濾材商品攝影2346.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_3_mesh_filter/2025.05.27-台纖濾材商品攝影2347.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_3_mesh_filter/2025.05.27-台纖濾材商品攝影2348.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_4_filter_element_housing/2025.05.27-台纖濾材商品攝影2318.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_4_filter_element_housing/2025.05.27-台纖濾材商品攝影2320.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_4_filter_element_housing/2025.05.27-台纖濾材商品攝影2324.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_4_filter_element_housing/product_4_filter_element_housing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_6_disk/2025.05.27-台纖濾材商品攝影2301.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_6_disk/2025.05.27-台纖濾材商品攝影2302.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_6_disk/product_6_disk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_7_powder_filter/product_7_powder_filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_8_mesh_bag_filter/2025.05.27-台纖濾材商品攝影2310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_8_mesh_bag_filter/2025.05.27-台纖濾材商品攝影2316.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_8_mesh_bag_filter/product_8_mesh_bag_filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_9_disk_2/2025.05.27-台纖濾材商品攝影2273.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_9_disk_2/2025.05.27-台纖濾材商品攝影2274.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_9_disk_2/2025.05.27-台纖濾材商品攝影2275.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_9_disk_2/2025.05.27-台纖濾材商品攝影2276.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_9_disk_2/product_9_disk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_ai/ai_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_ai/ai_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_ai/ai_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_ai/ai_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_ai/ai_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_ai/ai_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/product_ai/product_ai_liquid_cooling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/2025.05.27-台纖濾材商品攝影2293.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/2025.05.27-台纖濾材商品攝影2295.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/2025.05.27-台纖濾材商品攝影2297.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/2025.05.27-台纖濾材商品攝影2298.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/iloveimg-converted.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/product_5_multi_layered mesh filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/s9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/t1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/t2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/t3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/t4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/cache-buster.js" afterDir="false" />
+    <list default="true" id="cd57033f-efd3-4b86-b47c-3a5b07d3229b" name="Default Changelist" comment="fix:更新圖片與暫存問題">
+      <change afterPath="$PROJECT_DIR$/css/pagination.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-3.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.htm" beforeDir="false" afterPath="$PROJECT_DIR$/about.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/1500w_laser.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/circumferential_welding.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/differential_pressure_test.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/filter1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/filter2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/filter3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/filter4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/laser_engraving.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/line_QR_code.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_10_planar_multi_layered_filter/2025.05.27-台纖濾材商品攝影2266.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_10_planar_multi_layered_filter/2025.05.27-台纖濾材商品攝影2269.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_10_planar_multi_layered_filter/2025.05.27-台纖濾材商品攝影2271.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_10_planar_multi_layered_filter/product_10_planar multi_layered_filter_discs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2328.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2329.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2330.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2331.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2331.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2332.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2332.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2333.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2339.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2341.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_11_thermal_module_division/2025.05.27-台纖濾材商品攝影2342.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_12_liquid_cooling/S__18497540_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_12_liquid_cooling/S__18497542_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_12_liquid_cooling/S__18497543_0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_2_aerospace/aerospace_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_2_aerospace/product_2_aerospace_servo_valves.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_3_mesh_filter/2025.05.27-台纖濾材商品攝影2346.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_3_mesh_filter/2025.05.27-台纖濾材商品攝影2347.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_3_mesh_filter/2025.05.27-台纖濾材商品攝影2348.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_3_mesh_filter/product_3_multi_layered_mesh_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/product_3_mesh_filter/product_3_multi_layered_mesh_filter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_4_filter_element_housing/2025.05.27-台纖濾材商品攝影2318.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_4_filter_element_housing/2025.05.27-台纖濾材商品攝影2320.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_4_filter_element_housing/2025.05.27-台纖濾材商品攝影2324.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_4_filter_element_housing/product_4_filter_element_housing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_6_disk/2025.05.27-台纖濾材商品攝影2301.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_6_disk/2025.05.27-台纖濾材商品攝影2302.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_6_disk/product_6_disk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_7_powder_filter/product_7_powder_filter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_8_mesh_bag_filter/2025.05.27-台纖濾材商品攝影2304.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_8_mesh_bag_filter/2025.05.27-台纖濾材商品攝影2306.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_8_mesh_bag_filter/2025.05.27-台纖濾材商品攝影2310.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_8_mesh_bag_filter/2025.05.27-台纖濾材商品攝影2316.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_8_mesh_bag_filter/product_8_mesh_bag_filter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_9_disk_2/2025.05.27-台纖濾材商品攝影2273.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_9_disk_2/2025.05.27-台纖濾材商品攝影2274.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_9_disk_2/2025.05.27-台纖濾材商品攝影2275.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_9_disk_2/2025.05.27-台纖濾材商品攝影2276.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_9_disk_2/product_9_disk.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_ai/ai_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_ai/ai_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_ai/ai_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_ai/ai_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_ai/ai_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/product_ai/product_ai_liquid_cooling.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/2025.05.27-台纖濾材商品攝影2293.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/2025.05.27-台纖濾材商品攝影2295.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/2025.05.27-台纖濾材商品攝影2297.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/products_5_multi_layered_mesh_filter/2025.05.27-台纖濾材商品攝影2298.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/connect.htm" beforeDir="false" afterPath="$PROJECT_DIR$/connect.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/hot-products.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/hot-products.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter.htm" beforeDir="false" afterPath="$PROJECT_DIR$/filter.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/s9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/t4.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product.htm" beforeDir="false" afterPath="$PROJECT_DIR$/product.htm" afterDir="false" />
     </list>
@@ -245,7 +75,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PS-251.28293.47" />
+        <option value="bundled-php-predefined-a98d8de5180a-e5747d4f5a45-com.jetbrains.php.sharedIndexes-PS-251.28293.47" />
       </set>
     </attachedChunks>
   </component>
@@ -277,7 +108,8 @@
       <workItem from="1758791246768" duration="1668000" />
       <workItem from="1758859529254" duration="317000" />
       <workItem from="1758859860157" duration="3731000" />
-      <workItem from="1758863734281" duration="696000" />
+      <workItem from="1758863734281" duration="1163000" />
+      <workItem from="1759110329618" duration="2067000" />
     </task>
     <task id="LOCAL-00001" summary="init push">
       <created>1585315783618</created>
@@ -366,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758792878713</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix:更新圖片與暫存問題">
+      <option name="closed" value="true" />
+      <created>1758864568854</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1758864568854</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,6 +237,7 @@
     <MESSAGE value="upload:上傳圖片檔" />
     <MESSAGE value="update:完成開發" />
     <MESSAGE value="fix:一些小問題" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix:一些小問題" />
+    <MESSAGE value="fix:更新圖片與暫存問題" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix:更新圖片與暫存問題" />
   </component>
 </project>
