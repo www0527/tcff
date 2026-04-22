@@ -4,8 +4,8 @@
   "items": [
     {
       "image": "asset/product_ai/product_ai_liquid_cooling.png?t=6",
-      "title": "AI 液冷散熱系統濾芯",
-      "subtitle": "Filter Elements for AI Liquid Cooling Systems",
+      "title": "CDU 液冷散熱系統濾芯",
+      "subtitle": "Filter Elements for CDU Liquid Cooling Systems",
       "href": "product.htm",
       "itemClass": "w3l-abt-grid"
     },
@@ -53,7 +53,7 @@
     {
       "image": "asset/product_8_mesh_bag_filter/product_8_mesh_bag_filter.png?t=6",
       "title": "網包管濾芯",
-      "subtitle":"Mesh Bag Filter",
+      "subtitle": "Mesh Bag Filter",
       "href": "product-2.htm",
       "itemClass": "w3l-abt-grid-2"
     },
@@ -86,4 +86,3 @@
     }
   ]
 }
-
